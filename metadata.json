@@ -1,0 +1,6 @@
+{
+  "name": "NeuroPsych Consensus",
+  "description": "Ferramenta analítica de suporte à decisão clínica e consenso bifocal Neuro-Psiquiatria com farmacologia brasileira (SUS/Suplementar).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
